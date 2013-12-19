@@ -6,4 +6,6 @@ Django Pokedex
 - Installation de Python sur Windows/Linux/Mac.
 - Installation de Django
 - Gestion BDD
-- Cr�ation de routes
+- Création de routes
+
+[Slides de présentation](https://slid.es/pgrimaud/python-django)
