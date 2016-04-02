@@ -1,4 +1,4 @@
-![alt text](http://www.python.org/community/logos/python-logo.png "Python logo")
+![alt text](https://www.python.org/static/img/python-logo@2x.png "Python logo")
 
 Django Pokedex
 ===========
